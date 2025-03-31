@@ -10,5 +10,7 @@ HTML5 & CSS3
 
 # Referências Bibliográficas
 https://github.com/felipeAguiarCode/angular-blog
+
 https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino/plantilla
+
 https://www.fcbarcelona.com/en/football/first-team/players
