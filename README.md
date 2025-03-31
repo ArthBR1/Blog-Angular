@@ -2,7 +2,7 @@
 Este projeto é um blog pequeno dedicado ao prêmio Bola de Ouro 2025, desenvolvido em Angular. Este projeto foi feito durante o Decola Tech 2025.
 
 # 🚀 Tecnologias Utilizadas
-Angular (v16 ou superior)
+Angular
 
 TypeScript
 
