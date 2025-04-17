@@ -5,14 +5,14 @@
   width: 200px;
   margin: 10px;
   padding: 15px;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #ffffff;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
 }
 
 .small-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-10px);
+  box-shadow: 0 5px 10px rgb(218, 165, 32);
 }
 
 .small-card__photo img {
@@ -35,5 +35,5 @@
 }
 
 .small-card__title a:hover {
-  color: #0066cc;
+  color: #daa520;
 }

@@ -5,6 +5,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  white-space: pre-wrap;
+  text-align: justify;
 }
 
 .content__cover > img{
@@ -16,8 +18,12 @@
 
 .content__description{
   margin-top: 15px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.content__description > a:hover {
+  color: #daa520;
 }
 
 .content__description > p{
