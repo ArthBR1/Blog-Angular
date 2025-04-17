@@ -21,6 +21,6 @@ export const dataFake = [
     "id":"4",
     "title": "Raphinha",
     "description": "Raphinha, nome artístico de Raphael Dias Belloli, é um talentoso ponta brasileiro que atualmente joga pelo Barcelona e pela seleção brasileira. Revelado pelo Avaí, ele se destacou na Europa passando por clubes como Sporting CP, Rennes e Leeds United, onde sua técnica apurada, visão de jogo e capacidade de finalização chamaram atenção. No Barcelona, tornou-se peça importante no ataque, conhecido por sua versatilidade, cruzamentos precisos e chutes potentes de fora da área. Raphinha também é uma peça-chave na seleção canarinho, contribuindo com sua criatividade e experiência em competições internacionais.",
-    "photoCover":"https://www.fcbarcelona.com/photo-resources/2024/10/13/f90227fc-4cca-4245-8d96-d1c14f5dcc9a/11-Raphinha-M.jpg?width=470&height=470"
+    "photoCover":"https://www.fcbarcelona.com/photo-resources/2024/10/13/266dc5af-16b0-4290-99c5-03d73a48df11/11-Raphinha-M.png?width=670&height=790"
   }
 ]
